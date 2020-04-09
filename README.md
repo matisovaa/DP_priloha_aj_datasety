@@ -1,7 +1,7 @@
-# Príloha k diplomovej práci
+# Príloha k diplomovej práci aj s niektorými datasetmi
 
 Obsahuje drojové kódy prípravy datasetu, spúšťania siete a vizualizácie naučenej
-siete.
+siete. Ak máte záujem len o tieto zdrojové kódy tak ich nájdete [tu](https://github.com/matisovaa/DP_priloha)
 
 Datasety s 1000 obrázkami z každej triedy použité pri diplomovej práci nájdete [tu](https://drive.google.com/drive/folders/1IwNJFLRb5i-x6_6Z1p-m1evYVENZlck7?usp=sharing)
 
